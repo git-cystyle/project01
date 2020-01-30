@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6663ba08-31d2-45a9-bc29-f3ae91060ce5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X6UFZm3TvqsvPbL3Wy39E9AjdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="project01" type="PythonConfigurationType" factoryName="Python">
+      <module name="project01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_APP" value="main.py" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/flask/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/.virtualenvs/flask/bin/flask" />
+      <option name="PARAMETERS" value="run" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6663ba08-31d2-45a9-bc29-f3ae91060ce5" name="Default Changelist" comment="" />
+      <created>1580365934759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580365934759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1026" y="331" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580367714261">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state x="1026" y="331" key="#com.intellij.execution.impl.EditConfigurationsDialog/83.27.3757.2133@83.27.3757.2133" timestamp="1580367714261" />
+    <state x="1376" y="392" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1580373889288">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state x="1376" y="392" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/83.27.3757.2133@83.27.3757.2133" timestamp="1580373889288" />
+    <state x="1305" y="437" width="515" height="472" key="EnvironmentVariablesDialog" timestamp="1580366242037">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state x="1305" y="437" width="515" height="472" key="EnvironmentVariablesDialog/83.27.3757.2133@83.27.3757.2133" timestamp="1580366242037" />
+    <state width="1198" height="355" key="GridCell.Tab.0.bottom" timestamp="1580377384704">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state width="1198" height="355" key="GridCell.Tab.0.bottom/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
+    <state width="1198" height="355" key="GridCell.Tab.0.center" timestamp="1580377384704">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state width="1198" height="355" key="GridCell.Tab.0.center/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
+    <state width="1198" height="355" key="GridCell.Tab.0.left" timestamp="1580377384704">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state width="1198" height="355" key="GridCell.Tab.0.left/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
+    <state width="1198" height="355" key="GridCell.Tab.0.right" timestamp="1580377384704">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state width="1198" height="355" key="GridCell.Tab.0.right/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
+    <state x="1057" y="308" key="SettingsEditor" timestamp="1580374031150">
+      <screen x="83" y="27" width="3757" height="2133" />
+    </state>
+    <state x="1057" y="308" key="SettingsEditor/83.27.3757.2133@83.27.3757.2133" timestamp="1580374031150" />
+  </component>
+</project>
