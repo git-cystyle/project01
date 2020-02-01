@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6663ba08-31d2-45a9-bc29-f3ae91060ce5" name="Default Changelist" comment="" />
+    <list default="true" id="6663ba08-31d2-45a9-bc29-f3ae91060ce5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X6UFZm3TvqsvPbL3Wy39E9AjdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -68,22 +80,22 @@
       <screen x="83" y="27" width="3757" height="2133" />
     </state>
     <state x="1305" y="437" width="515" height="472" key="EnvironmentVariablesDialog/83.27.3757.2133@83.27.3757.2133" timestamp="1580366242037" />
-    <state width="1198" height="355" key="GridCell.Tab.0.bottom" timestamp="1580377384704">
+    <state width="1198" height="355" key="GridCell.Tab.0.bottom" timestamp="1580385702687">
       <screen x="83" y="27" width="3757" height="2133" />
     </state>
-    <state width="1198" height="355" key="GridCell.Tab.0.bottom/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
-    <state width="1198" height="355" key="GridCell.Tab.0.center" timestamp="1580377384704">
+    <state width="1198" height="355" key="GridCell.Tab.0.bottom/83.27.3757.2133@83.27.3757.2133" timestamp="1580385702687" />
+    <state width="1198" height="355" key="GridCell.Tab.0.center" timestamp="1580385702686">
       <screen x="83" y="27" width="3757" height="2133" />
     </state>
-    <state width="1198" height="355" key="GridCell.Tab.0.center/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
-    <state width="1198" height="355" key="GridCell.Tab.0.left" timestamp="1580377384704">
+    <state width="1198" height="355" key="GridCell.Tab.0.center/83.27.3757.2133@83.27.3757.2133" timestamp="1580385702686" />
+    <state width="1198" height="355" key="GridCell.Tab.0.left" timestamp="1580385702686">
       <screen x="83" y="27" width="3757" height="2133" />
     </state>
-    <state width="1198" height="355" key="GridCell.Tab.0.left/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
-    <state width="1198" height="355" key="GridCell.Tab.0.right" timestamp="1580377384704">
+    <state width="1198" height="355" key="GridCell.Tab.0.left/83.27.3757.2133@83.27.3757.2133" timestamp="1580385702686" />
+    <state width="1198" height="355" key="GridCell.Tab.0.right" timestamp="1580385702687">
       <screen x="83" y="27" width="3757" height="2133" />
     </state>
-    <state width="1198" height="355" key="GridCell.Tab.0.right/83.27.3757.2133@83.27.3757.2133" timestamp="1580377384704" />
+    <state width="1198" height="355" key="GridCell.Tab.0.right/83.27.3757.2133@83.27.3757.2133" timestamp="1580385702687" />
     <state x="1057" y="308" key="SettingsEditor" timestamp="1580374031150">
       <screen x="83" y="27" width="3757" height="2133" />
     </state>
